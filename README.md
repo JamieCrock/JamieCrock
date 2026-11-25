@@ -1,6 +1,6 @@
 ## Hi, I'm Jamie Crockett
 
-I graduated from Swansea University in 2026 with a **First Class BSc in Computer Science with Artificial Intelligence** (92.7% third-year average). My dissertation on the **temporal decay of AI detectability** won the **Computer Society Prize** for the highest dissertation mark in a cohort of 200+.
+I graduated from Swansea University in 2026 with a **First Class BSc in Computer Science with Artificial Intelligence** (92.7% weighted third-year average). My dissertation on the **temporal decay of AI detectability** won the **Computer Society Prize** for the highest dissertation mark in a cohort of 200+.
 
 I like mathematical problem solving and going into technical territory I don't know yet to find out what I can do there. I'm looking for a **graduate Software Engineer or Machine Learning role**. I'm based in Surrey, open to London, Surrey or hybrid, and available immediately.
 
